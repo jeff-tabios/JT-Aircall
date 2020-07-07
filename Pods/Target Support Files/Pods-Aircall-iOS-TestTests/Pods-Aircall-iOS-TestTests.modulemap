@@ -1,0 +1,6 @@
+framework module Pods_Aircall_iOS_TestTests {
+  umbrella header "Pods-Aircall-iOS-TestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
